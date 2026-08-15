@@ -245,6 +245,12 @@ tracks the marker's motion continuously and smoothly.
 
 ---
 
+## Results
+
+<img width="1920" height="1200" alt="Screenshot from 2026-08-15 21-52-08" src="https://github.com/user-attachments/assets/0d3f9c3c-ed3d-4d20-bd33-74215f92e5ca" />
+
+---
+
 ## Known Caveats / Follow-ups
 
 - **Screen-displayed tag jitter:** minor pose jitter observed is attributed to
