@@ -243,6 +243,8 @@ rviz2
 **Result:** Live rectified video in rviz2, with a `tag36h11:0` TF frame that
 tracks the marker's motion continuously and smoothly.
 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/b212a717-2a16-422e-96c2-6484166f1c58" />
+
 ---
 
 ## Known Caveats / Follow-ups
